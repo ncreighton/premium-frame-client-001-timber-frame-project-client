@@ -1,0 +1,2 @@
+# premium-frame-client-001-timber-frame-project-client
+The heritage-timber-framing tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Timber Frame Project Client &amp; Budget Hub — fully configured and ready to use - Pre-built da
